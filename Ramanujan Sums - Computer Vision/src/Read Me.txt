@@ -1,0 +1,7 @@
+It takes images form a specific directory "data/test/" and runs it with the 
+ramanujam sums function to determine whether the lungs image are the one which 
+are infected by TB or not.
+There is a file named trainingdata, which trains the data and then the images are read
+from the directory which will be a test data for this program
+The edges are marked and thus it determines whether a healthy lung or a ruptured 
+lung image is being read. This helps in early detection of the pulmonary diseases.
