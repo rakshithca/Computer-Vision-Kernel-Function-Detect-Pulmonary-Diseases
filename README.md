@@ -1,5 +1,5 @@
 # Computer-Vision-OpenCV
-Implementation of Kernel Function Based on Ramanujan Sums for Computer Vision to Pulmonary Disease
+Implementation of Kernel Function Based on Ramanujan Sums for Computer Vision to detect Pulmonary Disease
 
 This Project demonstrates a developed Image Kernel using OpenCV, Keras libraries using python. 
 A third order kernel matrix for edge detection is an image processor which recognizes whether the image inputted have 
